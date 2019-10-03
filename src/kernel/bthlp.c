@@ -34,3 +34,14 @@ void print_warn(const char* str, bool endl){
         term_newline();
     }
 }
+
+void sleep(int ms){
+	int c, d;
+   
+   	for (c = 1; c <= 32767; c++)
+       		for (d = 1; d <= 32767; d++)
+       		{}
+       
+   	return 0;
+
+}

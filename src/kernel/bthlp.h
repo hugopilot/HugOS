@@ -6,5 +6,5 @@
 void print_ok(const char* str, bool endl);
 void print_warn(const char* str, bool endl);
 void print_err(const char* str, bool endl);
-
+void sleep(int ms);
 #endif
