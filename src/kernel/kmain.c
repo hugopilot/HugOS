@@ -34,6 +34,6 @@ void kmain(void)
 
 
 
-	term_putstr("Hugo is geweldig!\n\n", 2);
+	term_putstr("Hugo Woesthuis is great\n\n", 2);
 	for(;;) asm("hlt"); //halt forever
 }
